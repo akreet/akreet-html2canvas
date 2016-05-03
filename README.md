@@ -1,0 +1,1 @@
+akreet-html2canvas
